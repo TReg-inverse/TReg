@@ -66,7 +66,7 @@ python solve.py \
     --prompt "a photo of a dog" \
     --img_path "samples/dog_1.jpg" \
     --cfg_guidance 5.0 \
-    --null_lr 1e-3 \
+    --null_lr 5e-4 \
     --use_AN;
 ```
 
@@ -91,7 +91,7 @@ Here, the proper solution should satisfy both 1) data consistency and 2) alignme
 python solve.py \
     --task_config configs/task/super-resolution.yaml \
     --null_prompt "out of focus, depth of field" \
-    --prompt "christmas" \
+    --prompt "christmas tree" \
     --img_path "samples/icecream_1.jpg" \
     --null_lr 1e-3 \
     --cfg_guidance 5.0 \
