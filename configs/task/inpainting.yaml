@@ -1,0 +1,7 @@
+name: 'inpainting'
+params:
+  channels: 3
+  image_size: 512
+  noise: 'gaussian'
+  noise_scale: 0.05
+  type: 'mask_eye'

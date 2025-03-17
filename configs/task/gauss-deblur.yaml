@@ -1,0 +1,8 @@
+name: 'deblur_gauss'
+params:
+  kernel_size: 61
+  intensity: 20.0
+  channels: 3
+  image_size: 512
+  noise: 'gaussian'
+  noise_scale: 0.05

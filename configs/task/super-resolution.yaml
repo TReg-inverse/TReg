@@ -1,0 +1,9 @@
+name: 'sr_bicubic'
+params:
+  in_shape: !!python/tuple [1,3,512,512]
+  scale_factor: 16
+  channels: 3
+  image_size: 512
+  deg_scale: 16
+  noise: 'gaussian'
+  noise_scale: 0.05

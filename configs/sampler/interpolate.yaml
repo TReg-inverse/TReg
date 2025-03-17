@@ -1,0 +1,7 @@
+name: 'interpolate'
+params:
+  beta_schedule: 'quad'
+  beta_start: 0.00085
+  beta_end: 0.012
+  num_diffusion_timesteps: 1000
+  num_sampling: 500
