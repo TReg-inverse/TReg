@@ -1,9 +1,9 @@
-# Regularization by Texts for Latent Inverse Problem Solvers
+# Regularization by Texts for Latent Diffusion Inverse Solvers
 
 ![main](assets/main.png)
 
 
-### This is the official repository for "Regularization by Text for Latent Inverse Problem Solvers" (ICLR2025 spotlight)
+### This is the official repository for "Regularization by Text for Latent Diffusion Inverse Solvers" (ICLR2025 spotlight)
 
 Jeongsol Kim*, Geon Yeong Park*, Hyungjin Chung, and Jong Chul Ye
 
